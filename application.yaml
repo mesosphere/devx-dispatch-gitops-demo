@@ -14,7 +14,7 @@ spec:
         app: hello-world
     spec:
       containers:
-      - image: "mesosphere/devx-dispatch-demo@sha256:d661f806af673ea7bae1d8e2949762cc1befe57aad74d1135cc309777775fa58"
+      - image: "mesosphere/devx-dispatch-demo@sha256:2e7382e24185215012634a61261355585888414a568d15a0fb04c113f675fb54"
         name: hello-world
         ports:
         - containerPort: 8080
